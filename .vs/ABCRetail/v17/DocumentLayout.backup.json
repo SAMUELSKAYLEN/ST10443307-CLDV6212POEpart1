@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|c:\\users\\lab_services_student\\desktop\\st10443307_cldv6212_part1\\st10443307-cldv6212poepart1\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|c:\\users\\lab_services_student\\desktop\\st10443307_cldv6212_part1\\st10443307-cldv6212poepart1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|c:\\users\\lab_services_student\\desktop\\st10443307_cldv6212_part1\\st10443307-cldv6212poepart1\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|c:\\users\\lab_services_student\\desktop\\st10443307_cldv6212_part1\\st10443307-cldv6212poepart1\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|c:\\users\\lab_services_student\\desktop\\st10443307_cldv6212_part1\\st10443307-cldv6212poepart1\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|c:\\users\\lab_services_student\\desktop\\st10443307_cldv6212_part1\\st10443307-cldv6212poepart1\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C78589B-0597-4C40-98E0-D2140A1B9B41}|ABCRetail.csproj|c:\\users\\lab_services_student\\desktop\\st10443307_cldv6212_part1\\st10443307-cldv6212poepart1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:39:14.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:27:39.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:15:12.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Details.cshtml",
               "RelativeToolTip": "Views\\Order\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-28T08:50:16.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AgIAAD4AAAAAAgAAAAAIwEgAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEgAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T08:38:00.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Views\\Order\\Create.cshtml",
-              "RelativeToolTip": "Views\\Order\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T08:26:15.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T08:27:12.588Z",
               "EditorCaption": ""
             }
           ]

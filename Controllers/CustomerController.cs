@@ -68,7 +68,19 @@ namespace ABCRetail.Controllers
             {
                 try
                 {
-                    await _storageService.UpdateEntityAsync(customer);
+                    var originalCustomer = await _storageService.GetEntityAsync<Customer>("Customer", customer.RowKey);
+                    if (originalCustomer == null) 
+                    {
+                        return NotFound();
+                    }
+
+                    originalCustomer.Name = customer.Name;
+                    originalCustomer.Surname = customer.Surname;
+                    originalCustomer.EmailAddress = customer.EmailAddress;
+                    originalCustomer.Username = customer.Username;
+                    originalCustomer.ShippingAddress = customer.ShippingAddress;
+
+                    await _storageService.UpdateEntityAsync(originalCustomer);
                     TempData["Success"] = "Customer updated successfully!";
                     return RedirectToAction(nameof(Index));
                 }
