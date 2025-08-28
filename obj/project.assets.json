@@ -6005,11 +6005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\ABCRetails_CLDV6212POE\\ABCRetail\\ABCRetail.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\ABCRetail.csproj",
       "projectName": "ABCRetail",
-      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetails_CLDV6212POE\\ABCRetail\\ABCRetail.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\ABCRetail.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetails_CLDV6212POE\\ABCRetail\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\ST10443307_CLDV6212_Part1\\ST10443307-CLDV6212POEpart1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

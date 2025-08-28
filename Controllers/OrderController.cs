@@ -70,7 +70,7 @@ namespace ABCRetail.Controllers
                         Username = customer.Username,
                         ProductID = model.ProductID,
                         ProductName = product.ProductName,
-                        OrderDate = model.OrderDate,
+                        OrderDate = DateTime.SpecifyKind(model.OrderDate, DateTimeKind.Utc),
                         Quantity = model.Quantity,
                         UnitPrice = product.Price,
                         TotalPrice = product.Price * model.Quantity,
